@@ -1,6 +1,6 @@
 # paterson_a_kandych_y_dataMedals
 
-Brief: 
+Brief: Yulia and I planning on setting in two bars and pie charts for each of the three list below.
 
 
 Task: 
