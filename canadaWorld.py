@@ -129,7 +129,7 @@ silver_1924 = []
 silver_1948 = []
 silver_1972 = []
 silver_2002 = []
-silver_2014 = []
+silver_2012 = []
 
 #  Silver medals with canada to world
 for years in canada:
@@ -176,25 +176,25 @@ for years in canada:
 print('men', len(silver_1924), 'silver medals in 1924')
 print('men', len(silver_1948), 'silver medals in 1948')
 print('men', len(silver_1972), 'silver medals in 1972')
-print('men', len(silver_2002), 'silver medals in 2012')
-print('men', len(silver_2014), 'silver medals in 2014')
+print('men', len(silver_2002), 'silver medals in 2002')
+print('men', len(silver_2012), 'silver medals in 2012')
 
 print('women', len(silver_1924), 'silver medals in 1924')
 print('women', len(silver_1948), 'silver medals in 1948')
 print('women', len(silver_1972), 'silver medals in 1972')
-print('women', len(silver_2002), 'silver medals in 2012')
-print('women', len(silver_2014), 'silver medals in 2014')
+print('women', len(silver_2002), 'silver medals in 2002')
+print('women', len(silver_2012), 'silver medals in 2012')
 
 
 pct_men = len(men_1948) / line_count * 100
-pct_women = len(women_1948) / line_count * 100
+pct_women = len(women_2002) / line_count * 100
 # pct_bronze = len(bronzes) / line_count * 100
 
 
 # now we can plot stuff!!!
 labels = ["Men", "Women"]
 sizes = [pct_men, pct_women]
-values = [7, 31]
+values = [17, 31]
 colors = ['gold', 'silver']
 explode = (0.1, 0.1)
 
