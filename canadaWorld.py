@@ -185,7 +185,6 @@ print('women', len(silver_1972), 'silver medals in 1972')
 print('women', len(silver_2002), 'silver medals in 2012')
 print('women', len(silver_2014), 'silver medals in 2014')
 
-#  
 
 pct_men = len(men_1948) / line_count * 100
 pct_women = len(women_1948) / line_count * 100
@@ -195,7 +194,7 @@ pct_women = len(women_1948) / line_count * 100
 # now we can plot stuff!!!
 labels = ["Men", "Women"]
 sizes = [pct_men, pct_women]
-values = [17, 1]
+values = [7, 31]
 colors = ['gold', 'silver']
 explode = (0.1, 0.1)
 
