@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+.hidden
+{
+	display:none;
+}
+
+.container
+{
+	width: 960px;
+    margin: 0 auto;
+    background-color: #ccc;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	text-align: center;
+}
+
+.canada
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	margin-bottom: 10px;
+}
+

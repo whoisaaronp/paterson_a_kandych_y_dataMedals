@@ -48,4 +48,5 @@ plt.yticks(values)
 plt.title("Amount of Competing Women to Men in Canada")
 
 
+
 plt.show()
