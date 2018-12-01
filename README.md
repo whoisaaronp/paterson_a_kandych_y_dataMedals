@@ -1,5 +1,6 @@
 # paterson_a_kandych_y_dataMedals
 
+HEAD
 Brief: Yulia and I planning on setting up two bars and pie charts for each of the three list below.
 
 
@@ -12,3 +13,7 @@ Task:
 
 <!-- competing men and women in canada  -->
 3 competing men v. women in canada(canadaCompeting)
+
+
+
+

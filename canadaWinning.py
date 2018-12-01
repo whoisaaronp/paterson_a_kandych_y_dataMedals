@@ -1,3 +1,4 @@
+
 import csv
 import numpy as np
 import matplotlib.pyplot as plt
@@ -78,3 +79,4 @@ plt.title("Canada & Sport in 2014")
 plt.xlabel("Skinning")
 
 plt.show()
+
